@@ -1,4 +1,0 @@
-<launch>
-    <param name="robot_description" textfile="$(find robot_description)/urdf/urdf/demo00.urdf"/>
-    <node pkg="rviz" type="rviz" name="rviz" />
-</launch>
